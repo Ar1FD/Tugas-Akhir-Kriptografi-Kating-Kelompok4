@@ -4,7 +4,7 @@
   - Burhan Ahmad			            4611421026
   - Robert Panca R. Simanjuntak	  4611421040	
   - Bagus Al Qohar 			          4611421057
-  - Ari Farhansyah Diraja		      4611421112
+  - Ari Farhansyach Diraja		      4611421112
 
 ## Aplikasi Analisis Sbox
 
